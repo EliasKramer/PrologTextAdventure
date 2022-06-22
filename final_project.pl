@@ -377,6 +377,9 @@ do_damage_to_boss(Dmg) :-
     writeln('The Boss DIED!'),
     writeln('*-*-*-*-*-*-*-*'),
     writeln('You Won!'),
+    writeln('*-*-*-*-*-*-*-*'),
+    writeln('You have defeated notas malus, this is latin and means "bad grades"'),
+    writeln('Now that he is dead, you can safely sleep at night, because you will never face bad grades again.'),
     !.
 do_damage_to_boss(Dmg) :- 
     enemy_hp(OldHp),
