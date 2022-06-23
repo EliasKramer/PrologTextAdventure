@@ -196,7 +196,7 @@ write('                                  West                           \n').
 
 :- write('Hello, my name is Rainer Zufall and I will assist you through this escape room. 
 You can use the flashlight on the desk next to you. Dont consider the bodies laying around.
-As you are in a very old dungeon, there might be other partcipant, who tried to escape this room. 
+As you are in a very old dungeon, there might be other participants, who tried to escape this room. 
 Make sure you dont starve. If you dont feel brave enough attending this you can also leave. 
 
 
